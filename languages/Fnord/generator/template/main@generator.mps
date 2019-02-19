@@ -7,11 +7,6 @@
   <imports>
     <import index="2m5g" ref="r:52d2cb2c-f3d4-447d-a649-c1b46f76c341(Fnord.structure)" />
   </imports>
-  <registry>
-    <language id="b401a680-8325-4110-8fd3-84331ff25bef" name="jetbrains.mps.lang.generator">
-      <concept id="1095416546421" name="jetbrains.mps.lang.generator.structure.MappingConfiguration" flags="ig" index="bUwia" />
-    </language>
-  </registry>
-  <node concept="bUwia" id="2YRJRIKShdD" />
+  <registry />
 </model>
 
