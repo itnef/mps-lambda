@@ -544,22 +544,6 @@
       <ref role="20lvS9" node="2Whd0beyY63" resolve="IExpression" />
     </node>
   </node>
-  <node concept="1TIwiD" id="6RNCtndmtQE">
-    <property role="EcuMT" value="7922854109120159146" />
-    <property role="3GE5qa" value="toplevel.definitionlike" />
-    <property role="TrG5h" value="TypeAssertion" />
-    <property role="34LRSv" value="type" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
-    <node concept="PrWs8" id="6RNCtndmtQF" role="PzmwI">
-      <ref role="PrY4T" node="461y7kt$XFY" resolve="IDefinition" />
-    </node>
-    <node concept="1TJgyj" id="6RNCtndmtQK" role="1TKVEi">
-      <property role="IQ2ns" value="7922854109120159152" />
-      <property role="20lmBu" value="aggregation" />
-      <property role="20kJfa" value="type" />
-      <ref role="20lvS9" node="2Whd0beyY63" resolve="IExpression" />
-    </node>
-  </node>
   <node concept="1TIwiD" id="5FrKOcvAuIL">
     <property role="EcuMT" value="6547041176373554097" />
     <property role="3GE5qa" value="expressions.basic.variables" />
@@ -643,6 +627,21 @@
       <property role="20kJfa" value="rhs" />
       <property role="20lbJX" value="1" />
       <ref role="20lvS9" node="2Whd0beyY63" resolve="IExpression" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="3hAhv_vjPx0">
+    <property role="EcuMT" value="3775782274944948288" />
+    <property role="3GE5qa" value="toplevel.querylike" />
+    <property role="TrG5h" value="TopLevelComment" />
+    <property role="34LRSv" value="#" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <node concept="PrWs8" id="3hAhv_vjPx1" role="PzmwI">
+      <ref role="PrY4T" node="2YRJRIKPGTZ" resolve="ITopLevelDirective" />
+    </node>
+    <node concept="1TJgyi" id="3hAhv_vjPx6" role="1TKVEl">
+      <property role="IQ2nx" value="3775782274944948294" />
+      <property role="TrG5h" value="string" />
+      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
     </node>
   </node>
 </model>
