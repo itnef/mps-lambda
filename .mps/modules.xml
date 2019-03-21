@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/Fnord/Fnord.mpl" folder="dependenttypes" />
+      <modulePath path="$PROJECT_DIR$/languages/Fnord/runtime/Fnord.runtime.msd" folder="dependenttypes" />
+      <modulePath path="$PROJECT_DIR$/languages/Fnord/sandbox/Fnord.sandbox.msd" folder="dependenttypes" />
+    </projectModules>
+  </component>
+</project>
